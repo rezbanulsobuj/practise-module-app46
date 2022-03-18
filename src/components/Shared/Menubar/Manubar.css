@@ -1,0 +1,15 @@
+.menu-container{
+    list-style: none;
+}
+.menu-container li{
+    margin-right:10px ;
+   font-size: 20px;
+    padding: 20px;
+    
+}
+.logo-container{
+   
+   font-size: 20px;
+    padding: 20px;
+    
+}
